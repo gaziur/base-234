@@ -1,0 +1,5 @@
+<h2>hi ...This is feature branchy heading</h2>
+<p>hello from develop</p>
+<h4>This is gazi which is responsible for this conflict</h4> 
+<h2>hi ...This is feature branchy heading</h2>
+<p>hello from develop</p>
